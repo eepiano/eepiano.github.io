@@ -4,7 +4,7 @@
 
 ## Job Market Paper
 
-[Free riders: The economics and organization of outlaw motorcycle gangs](https://github.com/eepiano/eepiano.github.io/blob/master/Free%20riders.pdf?raw=true)
+[Free riders: The economics and organization of outlaw motorcycle gangs](https://github.com/eepiano/eepiano.github.io/blob/master/Free%20riders.pdf)
 
 ## Other publications
 
