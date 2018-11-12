@@ -1,6 +1,10 @@
+## Vitae
+
+[CV](
+
 ## Job Market Paper
 
-[Free riders: The economics and organization of outlaw motorcycle gangs](
+[Free riders: The economics and organization of outlaw motorcycle gangs](https://github.com/eepiano/eepiano.github.io/blob/master/Free%20riders.pdf?raw=true)
 
 ## Other publications
 
@@ -8,7 +12,6 @@
 
 ## Working papers
 
-## Vitae
 
 You can use the [editor on GitHub](https://github.com/eepiano/eepiano.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
