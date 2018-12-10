@@ -8,7 +8,7 @@
 
 ## Other publications
 
-[State capacity and public choice: A critical survey] (https://github.com/eepiano/eepiano.github.io/blob/master/State_capacity_and_public_choice_Final.pdf?raw=true)
+[State capacity and public choice: A critical survey](https://github.com/eepiano/eepiano.github.io/blob/master/State_capacity_and_public_choice_Final.pdf?raw=true)
 
 [Outlaw and economics](https://github.com/eepiano/eepiano.github.io/blob/master/Outlaw%20and%20economics%20copy.pdf?raw=true)
 
