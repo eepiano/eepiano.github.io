@@ -2,13 +2,11 @@
 
 [CV](https://github.com/eepiano/eepiano.github.io/blob/master/Piano_Ennio_CV.pdf?raw=true)
 
-## Job Market Paper
-
-[Free riders: The economics and organization of outlaw motorcycle gangs](https://github.com/eepiano/eepiano.github.io/blob/master/Free%20riders.pdf?raw=true)
-
-## Other publications
+## Publications
 
 [State capacity and public choice: A critical survey](https://github.com/eepiano/eepiano.github.io/blob/master/State_capacity_and_public_choice_Final.pdf?raw=true)
+
+[Free riders: The economics and organization of outlaw motorcycle gangs](https://github.com/eepiano/eepiano.github.io/blob/master/Free%20riders.pdf?raw=true)
 
 [Outlaw and economics](https://github.com/eepiano/eepiano.github.io/blob/master/Outlaw%20and%20economics%20copy.pdf?raw=true)
 
@@ -23,3 +21,5 @@
 ## Working papers
 
 [Scalp-taking](https://github.com/eepiano/eepiano.github.io/blob/master/Revised_Manuscript.edited.pdf?raw=true) (with Trey Carson)
+
+
